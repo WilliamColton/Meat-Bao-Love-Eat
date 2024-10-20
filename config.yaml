@@ -1,0 +1,2 @@
+database_path: score_system.db
+jwt_secret_key: cute_baby_520
